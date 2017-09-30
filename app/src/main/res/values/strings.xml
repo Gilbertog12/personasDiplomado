@@ -4,7 +4,14 @@
     <string name="cedula">cedula</string>
     <string name="nombre">nombre</string>
     <string name="apellido">apellido</string>
-    <string name="Crear_Persona">crear persona</string>
+    <string name="Titulo">crear persona</string>
     <string name="LImpiar">Limpiar</string>
     <string name="Guardar">Guardar</string>
+    <string name="Mensaje_Guardado">Guardar</string>
+    <string name="crear_persona">crear</string>
+    <string name="listar_persona">Listar</string>
+    <string-array name="opciones">
+        <item>@string/crear_persona </item>
+        <item>@string/listar_persona</item>
+    </string-array>
 </resources>
