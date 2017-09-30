@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Personas</string>
+    <string name="numero">numero</string>
+    <string name="cedula">cedula</string>
+    <string name="nombre">nombre</string>
+    <string name="apellido">apellido</string>
+    <string name="Crear_Persona">crear persona</string>
+    <string name="LImpiar">Limpiar</string>
+    <string name="Guardar">Guardar</string>
+</resources>

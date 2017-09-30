@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Personas</string>
+    <string name="apellido">LastName</string>
+    <string name="cedula">ID</string>
+    <string name="nombre">Name</string>
+    <string name="numero">Number</string>
+</resources>
